@@ -2,7 +2,7 @@
 
 ### Meu nome é Luiz Fernando, e sou estudante de desenvolvimento web.
 
-- 🌱 Atualmente estou estudando Javascript por conta própria para aumentar meus conhecimentos sobre programação, pretendendo trabalhar na área futuramente.
+- 🌱 Atualmente estou estudando JavaScript por conta própria para aumentar meus conhecimentos sobre programação, pretendendo trabalhar na área futuramente.
 
 - 🤔 Estou procurando ajuda com JavaScript.
  
