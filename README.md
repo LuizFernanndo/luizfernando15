@@ -9,7 +9,8 @@
 - 💬 Pergunte-me sobre HTML e CSS e ficarei feliz em ajudar.
 
 - 📫 Como me encontrar: 
-- [![Linkedin Badge](https://img.shields.io/badge/-Luiz%20Fernando-6655cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-fernando-68481a192/)](https://www.linkedin.com/in/luiz-fernando-68481a192/)
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-Luiz%20Fernando-6655cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-fernando-68481a192/)](https://www.linkedin.com/in/luiz-fernando-68481a192/)
  
 [![Gmail Badge](https://img.shields.io/badge/-luizfernandolol15@gmail.com-6655cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizfernandolol15@gmail.com)](mailto:luizfernandolol15@gmail.com)
 
