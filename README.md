@@ -6,7 +6,7 @@
 
 - 🤔 Estou procurando ajuda com JavaScript.
  
-- 💬 Pergunte-me sobre HTML e CSS e ficarei feliz em ajudar.
+- 💬 Pergunte-me sobre HTML e CSS e ficarei feliz em ajudar. 
 
 - 📫 Como me encontrar:
  
