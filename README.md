@@ -1,10 +1,10 @@
 ## Olá pessoal, sejam bem vindos ao meu GitHub 👋
 
-### Meu nome é Luiz Fernando, e sou estudante de desenvolvimento web.
+### Meu nome é Luiz Fernando, e sou estudante de desenvolvimento web. 
 
-- 🌱 Atualmente estou estudando JavaScript por conta própria para aumentar meus conhecimentos sobre programação, pretendendo trabalhar na área futuramente.
+- 🌱 Atualmente estou estudando JavaScript por conta própria para aumentar meus conhecimentos sobre programação, pretendendo trabalhar na área futuramente. 
 
-- 🤔 Estou procurando ajuda com JavaScript.
+- 🤔 Estou procurando ajuda com JavaScript. 
  
 - 💬 Pergunte-me sobre HTML e CSS e ficarei feliz em ajudar. 
 
